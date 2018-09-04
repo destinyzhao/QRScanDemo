@@ -1,0 +1,21 @@
+PODS:
+  - LBXScan/LBXZXing (2.3):
+    - LBXScan/Types (~> 2.2)
+  - LBXScan/Types (2.3)
+  - LBXScan/UI (2.3):
+    - LBXScan/Types (~> 2.2)
+
+DEPENDENCIES:
+  - LBXScan/LBXZXing
+  - LBXScan/UI
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - LBXScan
+
+SPEC CHECKSUMS:
+  LBXScan: e51449f0832d1fe17da632af0d22adeb3cfa3543
+
+PODFILE CHECKSUM: 998fa7f00f3bac70bcddf79f7dee0fc53c516872
+
+COCOAPODS: 1.5.0
